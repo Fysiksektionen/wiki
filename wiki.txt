@@ -32,6 +32,23 @@ De nämnder som är aktiva är
 
 Sektionens funktionärers mandatperiod är ett kalenderår, och posterna tillsätts huvudsakligen genom urnval under hösten, där valresultatet tillkännages på årets sista sektionsmöte, vanligtvis kallat för Val-SM. Vissa mindre poster tillsätts av styrelsen under ett protokollfört styrelsemöte (STYM).
 
+== Historia ==
+1877 skapas Kungliga Tekniska Högskolan, ur det gamla Teknologiska institutet, när kung Oscar II ger skolan namnet ”Kungliga” i 50 års present. Studierna vid KTH är mycket krävande och studenterna behandlas dåligt. KTH har ett så kallat pliktsystem som innebär att en behöver närvara på alla lektioner. Om en inte närvarar får en böta en krona. Dessutom skrivs de bötfällda studenterna namn upp på listor som hängs upp i korridorerna. 
+
+Studenterna försöker vid flera tillfällen avskaffa pliktsystemet men utan framgång. Missförhållandena, hög arbetsbörda och pliktsystemet leder till att en grupp teknologer påbörjar arbetet med att bilda en studentkår.
+I november 1901 startar arbetet med stadgarna, och 30 januari 1902 kl 13:30 i hörsal R i KTHs gamla lokaler på Drottninggatan bildas Tekniska Högskolans Elevkår.
+
+Hur teknisk fysik startades på KTH var, i orden av Tord Beckman (F35), en mans verka: [[Gudmund Borelius]], professor i fysik vid KTH. Beckman berättar att Borelius förstod att svensk industri borde satsa på forskning och utveckling. Detta var inte självklart på 1920-talet, än mindre att det behövdes ingenjörer med särskild utbildning, m.a.o. en särskild avdelning på Kungliga Tekniska Högskolan. Borelius försökte driva den visionen men möttes av olika svårigheter: landet drabbades av svår depression, så det snålades ganska mycket med pengar. Det problemet löstes genom att kursplanen sattes ihop av ämnen som redan fanns på KTH. 
+
+Det andra stora problemet var lokaler. Studentkåren hade inget hus, utan hade fått flytt in i lokaler 1 trappa upp i D-huset. Men 1931 blev kårhuset färdigt, och då var det problemet undanröjt. I juni 1932 kom fackavdelningen för teknisk fysik till vid en kunglig konselj i Båstad. Redan på hösten togs de första fysikerna in. Deras antal begränsades till 4 då det inte var säkert att industrin skulle anställa ingenjörer med en sådan utbildning. Som jämförelse kan nämnas att antalet intagna på M var 35 under den perioden. 
+September 1932 kommer och fyra fysiker anländer på Kungliga Tekniska Högskolan. Ingen visste riktigt var de skulle höra hemma i studentkåren, men av en slump så kände en av dem några maskinare (M-Osquarer). Således anmälde sig dessa fyra fysiker till Maskins nollegasque. Kåren gick med på det och ändrade sina stadgar så att teknisk fysik studenter tillhörde M-sektionen. 
+
+Hösten 1942 fanns det ca 50 fysiker (F-Osquarer) i M-sektionen. Dessa kände då att det var rimligt att det fanns en representant åt teknisk fysik i M:s styrelse. Svaret var nej. Svaret retade fysikerna och vid ett sammanträde den 12:e december 1942 konstaterades det att de var tillräckligt många för att kunna strunta i M och bilda en egen sektion. 
+
+Under vårterminen 1943 bildades F-sektionen med ordförande, överphösare och andra poster. Sektionens första ordförande blev Axel von Heijne. Men det återstod ett problem: kårens stadgar behövde ändras. Nästa kårsammanträde skulle inte hända förrän i december och så länge ville inte fysikerna vänta.  Som en följd utlystes ett extra kårsammanträde. Svårigheten här vara att uppnå tillräckligt många närvarande för att mötet skulle vara beslutsmässigt. Det löstes genom att tidpunkten för sammanträdet sattes till lunchdags. Beckman skriver att energiska F-Osquarer genomletade kårhuset och lyckades slita Osquar från mat, tidningsläsning med mera och förfoga sig till den så kallade sessionssalen i kårhuset. Salen var avsedd för sektionssammanträden men räckte väl till. Allt gick väl i lås. En vägochvattenbyggare ville visserligen att F skulle placeras på sista plats bland sektionerna eftersom vi var yngst, men han talade för döva öron. 
+Vid högtidlig omröstning blev F sektion i kåren. Dagen var terminens sista dag: den 8:e juni 1943, som alltså är Fysiksektionens födelsedag.
+
+
 == Sektionslokalen ==
 Fysiksektionens sektionslokal heter Konsulatet och ligger på KTH Campus Valhallavägen. Hit kan alla programmets studenter komma för att äta lunch och plugga dagtid, och på helger och kvällar hålls pubar och fester här. Sektionslokalen har bytt fysisk adress flera gånger under historien. 
 
@@ -52,6 +69,7 @@ Varje år utnämns en person till Riddare av Integralorden, personen ifråga är
 === Ordförande emeritus ===
 Följande personer har varit ordförande för Fysiksektionen
 
+2019 - Mikael Lyth<br>
 2018 - Fred Lindahl<br>
 2017 - Anton Lu<br>
 2016 - Alexander Hesseborn<br>
