@@ -1,0 +1,47 @@
+{{Organisationsfakta
+| namn = Fysiksektionen
+| bild = Fysiksektionen THS logga.png
+| bildande = 1943
+| klassificering = Studentsektion vid [[Kungliga Tekniska Högskolan]]
+| ledartitel = Ordförande
+| ledarnamn = Morris Eriksson
+| moderorganisation = [[Tekniska Högskolans Studentkår]]
+| plats = Brinellvägen 89, Stockholm
+| hemsida = https://f.kth.se
+}}
+
+'''Fysiksektionen''' är en studentsektion tillhörande [[Tekniska Högskolans Studentkår]] (THS) vid [[Kungliga Tekniska Högskolan]] (KTH) i Stockholm. <ref>{{Webbref|titel=Fysiksektionen THS|url=https://www.f.kth.se|hämtdatum=2021-11-23|språk=SV-se}}</ref>
+Sektionen är en medlemsförening för de som vid KTH studerar [[civilingenjör]]sprogrammet i [[Teknisk fysik]],<ref>{{Webbref|titel=Teknisk fysik, civilingenjör 300 hp|url=https://www.kth.se/utbildning/civilingenjor/teknisk-fysik/utbildningsbeskrivning-1.4216|verk=KTH|hämtdatum=2021-11-23|språk=sv-SE}}</ref>
+civilingenjörsprogrammet i [[Teknisk matematik]]<ref>{{Webbref|titel=Teknisk matematik, civilingenjör 300 hp|url=https://www.kth.se/utbildning/civilingenjor/teknisk-matematik/utbildningsbeskrivning-1.923907|verk=KTH|hämtdatum=2021-11-23|språk=sv-SE}}</ref> eller något av fyra tillhörande masterprogram.<ref>{{Webbref|titel=Sektionernas sammansättning (THS)|url=https://docs.google.com/spreadsheets/d/16c06hYf5XBLarRvGvQ1PM_cQe0Tamrtakw3lnU-WyeU/edit?usp=sharing|hämtdatum=2021-11-23|språk=sv-SE}}</ref>
+Sektionens huvudsakliga syfte är att bevaka och medverka i utvecklingen av utbildningen på dessa program, samt att verka för god sammanhållning och kamratskap mellan de studerande på programmen.<ref>{{Webbref|titel=Fysiksektionens stadgar|url=https://drive.google.com/file/d/1fB4_xz2JReqvYFqEtp_-WwAsqDfNOg5_/view|hämtdatum=2021-11-23|språk=sv-SE}}</ref>
+
+== Historia ==
+Initiativtagare till att skapa en särskild fackavdelning för studier i Teknisk fysik var [[Gudmund Borelius]], professor i fysik vid KTH 1922-1955. Genom sin kontakt med industri och fakulteter vid andra teknologiska lärosäten konstaterade Borelius att en utbildning i Teknisk fysik vid KTH var nödvändig för att hänga med de stora industriländernas takt inom teknisk forskning. Bland annat diskuterades införandet av Teknisk fysik på den tekniska högskolan i [[Trondheim]], [[Norge]]. Röster på högskolan som motsatte sig förslaget ansåg att det inte var självklart att det fanns en efterfrågan på ingenjörer med en sådan typ av utbildning. Borelius utarbetade ett förslag som godkändes av lärarkollegiet och den 1 juli 1932 infördes den nya fackavdelningen för Teknisk fysik.<ref>{{Webbref|titel=Teknisk fysiks historia|url=https://www.physics.kth.se/sv/research/historia/2-borelius-och-teknisk-fysik-1.559537|verk=KTH|hämtdatum=2021-11-23|språk=sv-SE}}</ref>
+
+Vid september 1932 anländer fyra fysiker till Kungliga Tekniska Högskolan. Ingen visste då var dessa studenter hörde hemma i studentkåren. Av en slump hade en av dessa fysiker bekanta som studerade på maskiningenjörsprogrammet, och fysikerna anslöt sig till maskinstudenternas aktiviteter. Således beslutade studentkåren att ändra sina stadgar så att studenter på Teknisk fysik tillhörde Maskinsektionen. Hösten 1942 fanns det ca. 50 fysiker i Maskinsektionen och bland dessa fanns åsikten att programmet Teknisk fysik bör representeras i sektionens styrelse. Svaret de fick var nej. Fysikerna konstaterade då vid sammanträde den 12:e december 1942 att de var tillräckligt många för att bilda en egen sektion, och under vårterminen 1943 bildades Fysiksektionen. Det återstod dock ett problem: studentkårens stadgar behövde ändras för att officiellt erkänna den nya sektionen. Nästa kårsammanträde skulle inte hända förrän i december 1943 och så länge ville inte fysikerna vänta. Som en följd utlystes ett extra kårsammanträde och fysikstudenterna arbetade för att locka tillräckligt många kårmedlemmar för att göra mötet beslutsmässigt. Vid högtidlig omröstning blev F, som fysikerna brukar benämnas på KTH, sektion i kåren. Dagen var terminens sista dag: den 8:e juni 1943, som alltså är Fysiksektionens födelsedag.<ref>{{Webbref|titel=Fysiksektionens historia|url=https://f.kth.se/sektionen/|hämtdatum=2021-11-23|språk=sv-SE}}</ref>
+
+Hösten 2022 tog KTH emot sina första studenter i det nystartade civilingenjörsprogrammet Teknisk matematik.<ref>{{Webbref|titel=Nya programmet i teknisk matematik möter arbetsmarknadens behov|url=https://www.kth.se/aktuellt/nyheter/nya-programmet-i-teknisk-matematik-moter-arbetsmarknadens-behov-1.940917|verk=KTH|hämtdatum=2021-11-23|språk=sv-SE}}</ref> Programmet fokuserar på matematik och programmering och delar flera kurser med Teknisk fysik, varpå det beslutades att programmet skulle falla under Fysiksektionen.
+
+== Verksamhet ==
+Sektionen drivs av studenter, för studenter, där medlemmar i öppet val kan kandidera, rösta och bli valda till funktionärsposter inom de olika nämnder (utskott) som utgör verksamheten. Mandatperioden för de flesta uppdrag är ett kalenderår. Bland de olika nämnderna hittas [[Fysikalen]], Fysiksektionens [[spex]] som sätts upp vart annat år, och klubbmästeriet [[fkm*]], som ansvarar för sektionens festverksamhet. Varje år anordnar sektionen, likt de flesta andra studentsektioner på KTH, en mottagning för att välkomna och introducera de nyantagna studenterna till studielivets alla aspekter. En annan viktig del av verksamheten är studiebevakningen, som kontinuerligt utvärderar alla kurser genom studenterna och arbetar med KTH för att hålla hög nivå på utbildningen. Sektionen anordnar också varje år arbetsmarknadsdagen FUSION<ref>{{Webbref|titel=FUSION|url=https://ffusion.se/|hämtdatum=2021-11-23|språk=sv-SE}}</ref>: en mässa där företag inom teknik och forskning bjuds in för att presentera sig och knyta kontakter med studenter påväg ut i arbetslivet. Fysiksektionen leds av en strategisk styrelse med en sektionsordförande i spetsen.
+
+Sektionens lokal heter Konsulatet och ligger på Brinellvägen 89 på KTH Campus Valhallavägen. Där bedriver sektionen större delen av sin verksamhet och anordnar bland annat pubar, fester och möten. Under dagtid är lokalen en studieplats för studenter på programmen.
+
+== Framstående alumner == 
+
+* [[Christer Fuglesang]]
+* [[Max Tegmark]]
+* [[Simone Giertz]] (Hoppade av utbildningen efter ett år)
+
+== Se även ==
+<!-- Lägg länkar till artiklar om närliggande ämnen här nedan. -->
+* [[Tekniska Högskolans studentkår (Stockholm)]]
+
+== Referenser ==
+<!-- Alla källor du anger inom ref-taggarna hamnar här.
+Allmänna källor som gäller hela artikeln kan anges före eller efter references-markeringen. -->
+<references/>
+*[http://www.ths.kth.se Tekniska Högskolans Studentkår (THS)]
+
+
+[[Kategori:Föreningar vid Kungliga Tekniska högskolan]]
